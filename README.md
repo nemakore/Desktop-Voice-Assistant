@@ -39,8 +39,6 @@ Desktop-Voice-Assistant/
 └── README.md       # Project documentation
 ```
 
----
-
 ## ⚙️ How It Works
 
 1. User clicks the microphone button
@@ -141,13 +139,6 @@ Steps:
 2. Create new branch
 3. Make changes
 4. Submit pull request
-
----
-
-## 👨‍💻 Author
-
-**Pavan Kore**
-GitHub: [https://github.com/nemakore](https://github.com/nemakore)
 
 ---
 
